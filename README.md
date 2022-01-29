@@ -2,7 +2,7 @@
 ## introduction 
 my name is mukesh gorizala 
 I'am currently working on database and secure software design 
-I'm currently learning microsoft azure and SQl
+I'm currently learning microsoft azure and SQl programme
 I'm looking to collebrate with my friends and  learn more from them
 you can reach me through email ( mukeshgorizala9177@gmail.com)
 ## knowledge gained while creating md file 
